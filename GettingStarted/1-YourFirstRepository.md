@@ -33,7 +33,3 @@ In this guide, you will learn how to make a copy of a repository owned by your o
 4. Click the "Rename" button to save the new name.
 
 You have successfully forked a repository owned by your organization, transferred it to your organization's account, and added the desired prefix to its name.
-
----
-
-Feel free to use this document as a guide for your class. If you have any specific formatting preferences or additional information to include, please let me know, and I can make further adjustments.
