@@ -1,7 +1,3 @@
-Of course! Here are the instructions in a nicely formatted document that you can use for your class:
-
----
-
 # Forking and Renaming a Repository in GitHub
 
 In this guide, you will learn how to make a copy of a repository owned by your organization and add a specific prefix to its name, such as `<team_name>-<repository_name>`.
